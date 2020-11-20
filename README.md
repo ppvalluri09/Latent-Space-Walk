@@ -49,10 +49,11 @@ training_config = {
 Now we freeze the Classifier parameters, generate a random noise vector, pass each batch of images to the classifier, calculate the loss for a desired features, backprop and update the noise vector with a custom update rule.
 
 ### Checklist
-	- [x] Built a GAN to generate human like faces
-	- [x] Trained a Classifier to predict the features of a face
-	- [x] Used Classifier Gradients to update noise vector to output desired feature
-	- [ ] Disentanglement
+
+  - [x] Built a GAN to generate human like faces
+  - [x] Trained a Classifier to predict the features of a face
+  - [x] Used Classifier Gradients to update noise vector to output desired feature
+  - [ ] Disentanglement
 
 ### Acknowledgements
 
