@@ -12,4 +12,4 @@ z = get_noise(16, z_dim=64, device=device)
 fake = gen(z)
 print(fake.shape)
 
-show_tensor_images(fake)
+show_images(fake)
