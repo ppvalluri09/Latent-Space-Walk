@@ -2,10 +2,8 @@
 
 ### Controlled Generation output
 
-<p>
-    <img src="https://raw.githubusercontent.com/ppvalluri09/Latent-Space-Walk/main/static/controlled_output.png" alt="Face transition to Male faces" height="200", width="200">
-    <em>Face transition to Male faces</em>
-</p>
+![alt text](https://raw.githubusercontent.com/ppvalluri09/Latent-Space-Walk/main/static/controlled_output.png = 400x400)
+*Face transition to Male faces*
 
 ### Abstract
 
