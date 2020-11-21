@@ -4,7 +4,7 @@
 
 ![alt text](https://raw.githubusercontent.com/ppvalluri09/Latent-Space-Walk/main/static/controlled_output.png)
 
-| Face transition to Male |
+<div align="center">Face transition to Male</div>
 
 ### Abstract
 
