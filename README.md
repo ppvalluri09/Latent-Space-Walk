@@ -1,5 +1,9 @@
 # Latent-Space-Walk
 
+### Controlled Generation output
+
+![alt text](https://raw.githubusercontent.com/ppvalluri09/Latent-Space-Walk/main/static/controlled_output.png)
+
 ### Abstract
 
 Generative Adversarial Networks introduced by Ian Goodfellow in the year 2014 lead to a major breakthrough in the field of Generative Models with Deep Learning. Until then the VAEs were the king, and then GANs stepped in.
