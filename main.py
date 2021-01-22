@@ -26,7 +26,7 @@ dataset = Celeba(path="./celeba/img_align_celeba/img_align_celeba", df=df, tfms=
 loader = DataLoader(dataset, batch_size=batch_size, shuffle=True, num_workers=2)
 
 
-gen = Generator(z_dim, im_channels=3, hidden_dim=hidden_dim).to(device)
+gen = Generator(z_dim, im_channels=3, hid_dim=hidden_dim).to(device)
 disc = Discriminator(3, hidden_dim, n_classes=1).to(device)
 classifier = Classifier(num_classes=40).to(device)
 noise = get_noise(batch_size, z_dim, device=device)
